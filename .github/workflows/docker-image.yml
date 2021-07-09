@@ -1,5 +1,5 @@
 
-name: Django-Backend-CI
+name: Flask-Docker-CI
 
 on:
   push:
